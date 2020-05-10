@@ -1,0 +1,23 @@
+Battle System
+	- at 0 life, thing dies (player loses)
+	- sequential turn based combat
+	- target based actions
+
+Turn List (visible, Upper right)
+	- only shows next move? (current and 1 into the future?)
+	- scrollable
+	- icon for player and for enemies (hover over highlights enemy?)
+
+
+Player
+	- avatar (visible, left side)
+	- HP (visible, bottom left)
+	- Skill Set (visible, bottom pane?)
+
+
+Enemy (more than 1?)
+	- models (visible right/center)
+	- HP (visible?)
+	- Skill set (not visible to user)
+	- AI?
+
